@@ -1,7 +1,10 @@
 # Programming challenge
 
 ## Background
-In food animal systems, animals move to different farms as they age. Each farm has a unique ID and must keep a record of the movement of animals from one farm to another. Here, we present some fictitious records of movements among pig farms.
+In food animal systems, animals move to different farms as they age. Each farm
+has a unique ID and must keep a record of the movement of animals from one farm
+to another. Here, we present some fictitious records of movements among pig
+farms.
 
 *Description of the data folder* 
 
@@ -19,11 +22,6 @@ In food animal systems, animals move to different farms as they age. Each farm h
 The challenge is to create a system to visualize the movement records. This
 system have to follow the requirements bellow:
 
-- Has to be composed of 3 components: a REST API, a SPA WEB client, and a
-  relational database;
-- The relational database can be any database that you like, PostgreSQL, MariaDB
-  etc..;
-- The data provided in this repo should be imported into the database;
 - The REST API has to written in Java, Python or Typescript. It can use any
   framework/library that you desire;
 - The Web Client have to written in Typecript, and you can use any *SPA
